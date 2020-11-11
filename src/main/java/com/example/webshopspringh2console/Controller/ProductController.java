@@ -18,6 +18,7 @@ public class ProductController {
     //TEST Jenkins
     //TEST Jenkins2!
     //TEST Jenkins3!
+    //TEST Jenkins€!
     /*
     @Autowired
     ProductService productService;
